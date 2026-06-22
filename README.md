@@ -1,10 +1,4 @@
-Genial, Benjamín 🙌. Te armo el **README.md** final para tu proyecto de *Modelo de Claves Booleanas*. Así lo subís a GitHub junto con el notebook.
 
----
-
-## 📌 README.md
-
-```markdown
 # Modelo de Claves Booleanas en Python
 
 Este repositorio contiene una práctica de **búsquedas booleanas (AND, OR, NOT)** sobre dos conjuntos de documentos utilizando **NLTK**.  
