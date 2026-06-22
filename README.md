@@ -68,7 +68,3 @@ Ingrese una consulta booleana (o 'salir' para terminar): romano NOT griegos
 - Jupyter Notebook
 ```
 
-
-👉 Con este README tu repo queda completo: explica qué hace el proyecto, cómo ejecutarlo y muestra ejemplos de salida.  
-
-¿Querés que además te prepare un **preview corto en inglés** para que tu repo sea más internacional y pueda ser entendido por otros usuarios en GitHub?
